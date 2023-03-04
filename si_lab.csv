@@ -1,0 +1,25 @@
+﻿Row Labels,Sample Type,Sample,Atom_Ratio_D/H,Atom_Ratio_18O/16O,known_dD,known_d18O
+      USGS-45,Standard,,0.00030968,0.002019507,-10.3,-2.24
+      USGS-47,Standard,,0.000272759,0.001990244,-150.2,-19.8
+         KONA,Standard,,0.00031221,0.002025741,0.5,1
+1,Pinecrest Lake,Lake,0.000287121,0.002002423,,
+2,Redwood City,Tap,0.000298532,0.002013043,,
+3,Sean,Tap,0.000289223,0.002001697,,
+4,San Francisco,Tap,0.00029514,0.002010612,,
+5,Dorms,Tap,0.00029341,0.002007977,,
+6,San Antonio Valley,Lake,0.000299998,0.002012612,,
+7,Tap water_East Oakland,Tap,0.000289519,0.002002078,,
+8,Livermore,Tap,0.000299507,0.002010952,,
+9,Tal Water Hayward,Tap,0.000298622,0.00200989,,
+10,San Lorenzo_Cold Winter Rain ,Rain,0.000290661,0.002001565,,
+11,Richmond_Cold Winter Rain ,Rain,0.000285137,0.002000645,,
+12,Castro Valley_Cold Winter Rain ,Rain,0.000291388,0.001999795,,
+13,Hayward_Cold Winter Rain,Rain,0.000294731,0.002003425,,
+14,Atmospheric River,Rain,0.000313837,0.002021037,,
+15,Tap Water_West Oakland,Tap,0.000293584,0.002002438,,
+16,Lake Chabot,Lake,0.000302923,0.002017689,,
+17,Lake Berryessa,Lake,0.000300286,0.002014725,,
+18,Tap Water_CSUEB,Tap,0.000283224,0.001998593,,
+19,Tap Water_Berkeley,Tap,0.000284942,0.002001494,,
+20,Wildcat Creek,Stream,0.000302236,0.002015111,,
+21,Kesterson Stream,Stream,0.000299687,0.002013377,,
